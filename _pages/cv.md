@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here](https://hazandaglayan.github.io/files/HazanDaglayanCV_2023_11.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Middle East Technical University, 2011, Ankara/Turkiye
+* MSc. in Information Systems, Middle East Technical University, 2015, Ankara/Turkiye
+* PhD in Mathematical Engineering, UCLouvain, 2024, Louvain-la-Neuve/Belgium (expected)
 
 Work experience
 ======
