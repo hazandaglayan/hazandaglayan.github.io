@@ -1,7 +1,7 @@
 ---
 title: "Direct Exoplanet Detection Using L1 Norm Low-Rank Approximation"
 collection: publications
-permalink: /publication/2023-11-08-direct-l1-norm
+permalink: /publication/2023-11-direct-l1-norm
 excerpt: ''
 date: 2023-11-08
 venue: 'Proceedings of the 35th BNAIC and 32nd BeNeLearn joint international scientific conferences on AI and machine learning'
@@ -14,4 +14,4 @@ We propose to use low-rank matrix approximation using the component-wise L1-norm
 
 [code](https://github.com/hazandaglayan/l1lra_for_exoplanets)
 
-Recommended citation: Daglayan, H., Vary S., Leplat, V., Gillis, N, Absil, P-A. (2023). "Direct Exoplanet Detection Using L1 Norm Low-Rank Approximation" <i>Proceedings of the 35th BNAIC and 32nd BeNeLearn joint international scientific conferences on AI and machine learning (BNAIC/BeNeLearn2023).
+Recommended citation: Daglayan, H., Vary S., Leplat, V., Gillis, N, Absil, P-A. (2023). "Direct Exoplanet Detection Using L1 Norm Low-Rank Approximation." <i>Proceedings of the 35th BNAIC and 32nd BeNeLearn joint international scientific conferences on AI and machine learning (BNAIC/BeNeLearn2023).
